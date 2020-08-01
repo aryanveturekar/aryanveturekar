@@ -23,7 +23,7 @@
 <br />
 
 Hi, I'm Aryan 😉, a programmer 👨🏻‍💻 from India.
-Apart from programming I enjoy doing animations, writing, reading, and graphic designing. 
+Apart from programming I enjoy doing animations 🤩, writing ✍️, reading 📚, and graphic designing.👀 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
